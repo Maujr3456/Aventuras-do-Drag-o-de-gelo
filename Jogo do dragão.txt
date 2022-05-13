@@ -1,0 +1,14 @@
+monstro q precisa salvar a irma monstra q foi capturada pelos humanos
+objetivo : derrotar humanos para salvar a irma
+habilidade especial do monstro: congelar inimigos
+monstro lutador
+barra de vida
+barra de mana
+humanos que tentam matar o monstro
+humanos usam espadas , lanças, cavaleiros
+humanos magos
+fogo é a fraqueza do monstro
+monstro pode ser um dragao
+aliados curam os dragoes
+moedas de ouro, diamante sera o score do jogador
+ideia multiplayer
